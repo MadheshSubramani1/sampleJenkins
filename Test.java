@@ -4,6 +4,7 @@ public class Test {
 		
 		System.out.println("Helo Madhesh");
 		System.out.println("Welcome to Jednkins");
+		System.out.println("Connected with GitHub");
 	}
 
 }
